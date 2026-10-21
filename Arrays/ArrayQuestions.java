@@ -41,6 +41,9 @@ public class ArrayQuestions {
             // if(arr[i]>mx) mx = arr[i];
             mx = Math.max(mx,arr[i]);
         }
+
+        int smx = Integer.MIN_VALUE;
+        
         System.out.println(mx);
     }
 }
