@@ -7,5 +7,7 @@ public class ArrayMethods {
         change(arr);
         System.out.println(arr[0]);
     }
-    public static void
+    public static void change(int[] x){
+        x[0] = 90;
+    }
 }
