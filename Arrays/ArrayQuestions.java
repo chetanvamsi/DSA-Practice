@@ -44,7 +44,7 @@ public class ArrayQuestions {
 
         int smx = Integer.MIN_VALUE;
         for(int i=0; i<n; i++){
-            if(arr[i] != mx)
+            if(arr[i] != mx) smx = Math.max(smx, arr[i]);
         }
         System.out.println(mx);
     }
