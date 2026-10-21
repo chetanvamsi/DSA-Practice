@@ -6,7 +6,7 @@ public class Linearsearch {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter target element: ");
         int x = sc.nextInt();
-        System.out.print("Enter the array")
+        System.out.print("Enter Array Size: ");
 
     }
     
