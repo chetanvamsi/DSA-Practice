@@ -23,5 +23,6 @@ public class ArrayQuestions {
             if(arr[i]>mx) mx = arr[i];
             mx = Math.max(mx,arr[i]);
         }
+        System.out.println(mx);
     }
 }
