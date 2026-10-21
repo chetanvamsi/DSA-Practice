@@ -5,5 +5,6 @@ public class ArrayMethods {
         int[] arr = {10, 20, 30, 40};
         System.out.println(arr[0]);
         change(arr);
+        System.out.println(arr[0]);
     }
 }
