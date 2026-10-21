@@ -9,7 +9,8 @@ public class Linearsearch {
         System.out.print("Enter Array Size: ");
         int n = sc.nextInt();
         int[] arr = new int[n];
-        System.out.print("Enter the ")
+        System.out.print("Enter Array Elements: ");
+        
 
     }
     
