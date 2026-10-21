@@ -22,6 +22,7 @@ public class Linearsearch {
                 break;
             }
         }
+        if(flag == true) System.out.println
 
     }
     
