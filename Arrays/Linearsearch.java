@@ -10,7 +10,9 @@ public class Linearsearch {
         int n = sc.nextInt();
         int[] arr = new int[n];
         System.out.print("Enter Array Elements: ");
-        
+        for(int i=0; i<n; i++){
+            arr[i]
+        }
 
     }
     
