@@ -20,9 +20,8 @@ public class ArrayQuestions {
         int n = arr.length;
         int mx = Integer.MIN_VALUE;
         for(int i=0; i<n; i++){
-            if(arr[i]>mx){
-                mx = arr[i];
-            }
+            if(arr[i]>mx) mx = arr[i];
+            mx = Math.max(mx,arr[i]);
         }
     }
 }
