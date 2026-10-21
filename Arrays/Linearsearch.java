@@ -22,7 +22,8 @@ public class Linearsearch {
                 break;
             }
         }
-        if(flag == true) System.out.println
+        if(flag == true) System.out.println("Element found");
+        
 
     }
     
