@@ -23,7 +23,7 @@ public class Linearsearch {
             }
         }
         if(flag == true) System.out.println("Element found");
-        else System.out.println("Ele")
+        else System.out.println("Element not found");
 
     }
     
