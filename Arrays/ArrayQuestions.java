@@ -13,7 +13,7 @@ package Arrays;
 // }
 
 
-
+                    //2Q
 public class ArrayQuestions {
     public static void main(String[] args) {
         int[] arr = {41, 21, 37, 67, 81, 90};
