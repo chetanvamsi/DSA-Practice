@@ -14,7 +14,7 @@ public class Linearsearch {
             arr[i] = sc.nextInt();
         }
 
-        flag = 
+        boolean flag = false;
 
         for(int i=0; i<n; i++){
             if(arr[i]==x){
