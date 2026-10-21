@@ -21,7 +21,7 @@ public class ArrayQuestions {
         int mx = Integer.MIN_VALUE;
         for(int i=0; i<n; i++){
             if(arr[i]>mx){
-                mx 
+                mx = arr[i];
             }
         }
     }
