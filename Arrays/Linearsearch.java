@@ -16,7 +16,7 @@ public class Linearsearch {
 
         for(int i=0; i<n; i++){
             if(arr[i]==x){
-                System.out.println("Element ")
+                System.out.println("Element Found");
             }
         }
 
