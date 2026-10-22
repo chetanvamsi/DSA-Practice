@@ -7,6 +7,7 @@ public class copyofArrays {
             System.out.print(ele+" ");
         }
         System.out.println();
+        int[] nums = 
     }
     
 }
