@@ -8,6 +8,7 @@ public class builtinMethods {
         //     System.out.print(arr[i]+" ");
         // }
         
+        //for each loop
         for(int ele : arr){
             System.out.print(ele + " ");
         }
