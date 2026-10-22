@@ -6,6 +6,7 @@ public class copyofArrays {
         for(int ele : arr){
             System.out.print(ele+" ");
         }
+        System.out.println();
     }
     
 }
