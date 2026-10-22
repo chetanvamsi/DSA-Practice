@@ -4,7 +4,9 @@ public class BasicOfArrayList {
     public static void main(String[] args) {
         ArrayList<Integer> arr = new ArrayList<>(6);
         arr.add(0, 10);
-        
+        arr.add(1, 20);
+        arr.add(2, 30);
+        arr.add
         
     }
 }
