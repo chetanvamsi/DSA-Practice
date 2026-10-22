@@ -9,5 +9,8 @@ public class builtinMethods {
         }
         Arrays.sort(arr);
         System.out.println();
+        for(int i=0; i<n; i++){
+            System.out.print(arr[i]+" ");
+        }
     }
 }
