@@ -10,7 +10,7 @@ public class BasicOfArrayList {
         arr.add(4, 50);
         arr.add(5, 60);
         System.out.println(arr);
-        
+        for(int i=0;)
         
     }
 }
