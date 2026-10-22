@@ -6,7 +6,9 @@ public class BasicOfArrayList {
         arr.add(0, 10);
         arr.add(1, 20);
         arr.add(2, 30);
-        arr.add
+        arr.add(3, 40);
+        arr.add(4, 40);
+        arr.add(5, 40);
         
     }
 }
