@@ -11,7 +11,7 @@ public class BasicOfArrayList {
         arr.add(5, 60);
         System.out.println(arr);
         for(int i=0; i<=5; i++){
-            System.out.print(arr.get)
+            System.out.print(arr.get(i) + " ");
         }
         
     }
