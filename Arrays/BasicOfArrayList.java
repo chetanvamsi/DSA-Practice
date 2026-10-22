@@ -14,6 +14,7 @@ public class BasicOfArrayList {
             System.out.print(arr.get(i) + " ");
         }
         System.out.println();
+        
 
     }
 }
