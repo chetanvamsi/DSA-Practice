@@ -19,6 +19,8 @@ public class copyofArrays {
         for(int i=0; i<arr.length; i++){
             crr[i] = arr[i];
         }
+        crr[0] = 100;
+        
     }
     
 }
