@@ -15,7 +15,7 @@ public class copyofArrays {
         // brr[0] = 70;
         // System.out.println(arr[0]);
 
-        int[] 
+        int[] crr = new int
     }
     
 }
