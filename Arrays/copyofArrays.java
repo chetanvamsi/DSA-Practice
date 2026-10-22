@@ -7,9 +7,11 @@ public class copyofArrays {
             System.out.print(ele+" ");
         }
         System.out.println();
-        int[] nums = arr;     //shallow copy
-        nums[0] = 70;
-        System.out.println(arr[0]);
+        // int[] nums = arr;     //shallow copy
+        // nums[0] = 70;
+        // System.out.println(arr[0]);
+
+        
     }
     
 }
