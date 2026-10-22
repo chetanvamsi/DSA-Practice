@@ -7,8 +7,8 @@ public class BasicOfArrayList {
         arr.add(1, 20);
         arr.add(2, 30);
         arr.add(3, 40);
-        arr.add(4, 40);
-        arr.add(5, 40);
+        arr.add(4, 50);
+        arr.add(5, 60);
         
     }
 }
