@@ -9,7 +9,7 @@ public class builtinMethods {
         // }
         
         for(int ele : arr){
-            System.out.print(ele+ " ");
+            System.out.print(ele + " ");
         }
         Arrays.sort(arr);
         System.out.println();
