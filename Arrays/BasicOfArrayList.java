@@ -9,6 +9,8 @@ public class BasicOfArrayList {
         arr.add(3, 40);
         arr.add(4, 50);
         arr.add(5, 60);
+        System.out.println(arr);
+        
         
     }
 }
