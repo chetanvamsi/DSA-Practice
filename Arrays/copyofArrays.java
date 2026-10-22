@@ -9,7 +9,7 @@ public class copyofArrays {
         System.out.println();
         int[] nums = arr;     //shallow copy
         nums[0] = 70;
-        
+        System.out.println(arr[0]);
     }
     
 }
