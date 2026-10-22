@@ -20,7 +20,7 @@ public class copyofArrays {
             crr[i] = arr[i];
         }
         crr[0] = 100;
-        
+        System.out.print
     }
     
 }
