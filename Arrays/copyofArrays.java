@@ -8,6 +8,7 @@ public class copyofArrays {
         }
         System.out.println();
         int[] nums = arr;     //shallow copy
+        nums[0] = 70;
         
     }
     
