@@ -15,6 +15,9 @@ public class ReverseArray {
             arr[i] = arr[j];
             arr[j] = temp;
         }
+        for(int ele : arr){
+            System.out.print(ele+" ");
+        }
 
     }
 }
