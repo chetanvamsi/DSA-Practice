@@ -34,5 +34,8 @@ public class ReverseArray {
         }
         System.out.println();
     }
-    public static void
+    public static void swap(int[] arr, int i, int j){
+        int temp = arr[i];
+        
+    }
 }
