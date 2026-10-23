@@ -4,7 +4,7 @@ public class TwoSum {
         int x = 9;
         int n = arr.length;
         for(int i=0; i<n; i++){
-            for(int j=i+1; i<arr.length; ++){
+            for(int j=i+1; i<n; j++){
 
             }
 
