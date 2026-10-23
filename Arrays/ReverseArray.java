@@ -10,6 +10,7 @@ public class ReverseArray {
         System.out.println();
         //reverse
         for(int i=0; i<n; i++){
+            int j = n-i-1;
             int temp = arr[i];
             arr[i] = arr[j];
             arr[j] = temp;
