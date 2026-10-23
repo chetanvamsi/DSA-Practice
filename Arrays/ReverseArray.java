@@ -9,7 +9,9 @@ public class ReverseArray {
         }
         System.out.println();
         //reverse
-        
+        for(int i=0; i<n; i++){
+            
+        }
 
     }
 }
