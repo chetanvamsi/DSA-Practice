@@ -12,7 +12,7 @@ public class ReverseArray {
         for(int i=0; i<n; i++){
             int temp = arr[i];
             arr[i] = arr[j];
-            
+            arr[j] = temp;
         }
 
     }
