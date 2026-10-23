@@ -26,7 +26,8 @@ public class ReverseArray {
         int i=0, j=n-1;
         while(i<=j){
             swap(arr,i,j);
-            
+            i++;
+            j--;
         }
 
 
