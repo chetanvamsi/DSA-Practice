@@ -5,7 +5,7 @@ public class ReverseArray {
         int[] arr = {10,20,30,40,50,60,70};
         int n = arr.length;
         for(int ele : arr){
-            
+            System.out.print(ele+" ");
         }
     }
 }
