@@ -9,12 +9,12 @@ public class ReverseArray {
         }
         System.out.println();
         //reverse
-        for(int i=0; i<n/2; i++){
-            int j = n-i-1;
-            int temp = arr[i];
-            arr[i] = arr[j];
-            arr[j] = temp;
-        }
+        // for(int i=0; i<n/2; i++){
+        //     int j = n-i-1;
+        //     int temp = arr[i];
+        //     arr[i] = arr[j];
+        //     arr[j] = temp;
+        // }
         for(int ele : arr){
             System.out.print(ele+" ");
         }
