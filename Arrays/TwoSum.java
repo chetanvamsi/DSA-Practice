@@ -5,7 +5,7 @@ public class TwoSum {
         int n = arr.length;
         for(int i=0; i<n; i++){
             for(int j=i+1; i<n; j++){
-                if(arr[i] + arr[j])
+                if(arr[i] + arr[j] == x)
 
             }
 
