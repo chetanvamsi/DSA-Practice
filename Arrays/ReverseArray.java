@@ -23,8 +23,13 @@ public class ReverseArray {
 
 
         //reverse(method 2)
+        int i=0, j=n-1;
+        while(i<=j){
+            swap(arr,i,j);
+            
+        }
 
-        
+
 
     }
 }
