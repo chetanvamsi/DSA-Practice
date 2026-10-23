@@ -23,7 +23,7 @@ public class ReverseArray {
 
 
         //reverse(method 2)
-        int i=0, j=n-1;               // by using this method two we can swap 
+        int i=0, j=n-1;               // by using this method two we can swap from any particular positions
         while(i<=j){
             swap(arr,i,j);
             i++;
