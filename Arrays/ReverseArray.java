@@ -37,6 +37,6 @@ public class ReverseArray {
     public static void swap(int[] arr, int i, int j){
         int temp = arr[i];
         arr[i] = arr[j];
-        ar
+        arr[j] = temp;
     }
 }
