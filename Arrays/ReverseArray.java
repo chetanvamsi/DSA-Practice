@@ -8,6 +8,7 @@ public class ReverseArray {
             System.out.print(ele+" ");
         }
         System.out.prinln();
+        //reverse
         
     }
 }
