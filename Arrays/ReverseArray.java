@@ -29,8 +29,10 @@ public class ReverseArray {
             i++;
             j--;
         }
-
-
-
+        for(int ele : arr){
+            System.out.print(ele+" ");
+        }
+        System.out.println();
     }
+    public static void
 }
