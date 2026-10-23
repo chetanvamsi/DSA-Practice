@@ -4,6 +4,9 @@ public class TwoSum {
         int x = 9;
         int n = arr.length;
         for(int i=0; i< arr.length; i++){
+            for(int j=i+1; i<arr.length; j++){
+                
+            }
 
         }
     }
