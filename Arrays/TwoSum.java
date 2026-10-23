@@ -1,4 +1,5 @@
 package Arrays;
+
 public class TwoSum {
     public static void main(String[] args) {
         int[] arr = {0,2,3,9,5,6,7,8};
