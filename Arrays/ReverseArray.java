@@ -9,7 +9,7 @@ public class ReverseArray {
         }
         System.out.println();
         //reverse
-        for(int i=0; i<n; i++){
+        for(int i=0; i<n/2; i++){
             int j = n-i-1;
             int temp = arr[i];
             arr[i] = arr[j];
