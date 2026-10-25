@@ -12,5 +12,8 @@ public class SortZeroOneTwo {
             else if(arr[i]==1) noo++;
             else if(arr[i]==2) not++;
         }
+        for(int i=0; i<n; i++){
+            
+        }
     }
 }
