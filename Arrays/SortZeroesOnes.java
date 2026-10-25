@@ -11,5 +11,6 @@ public class SortZeroesOnes {
             if(i<noOfZeroes) arr[i] = 0;
             else arr[i] = 1;
         }
+        
     }
 }
