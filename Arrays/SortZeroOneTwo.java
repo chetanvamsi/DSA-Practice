@@ -13,6 +13,7 @@ public class SortZeroOneTwo {
         for(int i=0; i<n; i++){
             if(i<noz) arr[i] = 0;
             else if(i<noz + noo) arr[i] = 1;
+            else arr[i] = 2;
         }
         for(int ele : arr){
             System.out.print(ele + " ");
