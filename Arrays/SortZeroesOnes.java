@@ -15,6 +15,8 @@ public class SortZeroesOnes {
         //     else arr[i] = 1;
         // }
 
+        //method 2-2
+
         
 
     }
