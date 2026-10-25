@@ -19,7 +19,8 @@ public class SortZeroesOnes {
         // System.out.println();
 
         //method 2(one pass)
-        int i=0
+        int i=0, j=n-1;
+        
 
 
 
