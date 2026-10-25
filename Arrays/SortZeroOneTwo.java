@@ -9,7 +9,8 @@ public class SortZeroOneTwo {
         int not = 0;
         for(int i=0; i<n; i++){
             if(arr[i]==0) noz++;
-            else if(arr[j]==1) noo++;
+            else if(arr[i]==1) noo++;
+            else if(arr)
 
         }
     }
