@@ -5,7 +5,6 @@ public class SortZeroesOnes {
         int n = arr.length;
 
         //method 2(two pass)
-
         // int noOfZeroes = 0;
         // for(int i=0; i<n; i++){
         //     if(arr[i]==0) noOfZeroes++;
@@ -21,6 +20,7 @@ public class SortZeroesOnes {
 
         //method 2(one pass)
         
+
 
 
 
