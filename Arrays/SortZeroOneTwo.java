@@ -18,7 +18,7 @@ public class SortZeroOneTwo {
             else if(i<not) arr[i] = 2;
         }
         for(int ele : arr){
-            
+            System.out.print(arr)
         }
     }
 }
