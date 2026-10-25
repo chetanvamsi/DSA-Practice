@@ -23,6 +23,7 @@ public class SortZeroesOnes {
         while(i<j){
             if(arr[i]==0) i++;
             if(arr[j]==1) j--;
+            if(i>j) break;
             if(arr[i]==1 && arr[j]==0){
                 arr[i] = 0;
                 arr[j] = 1;
