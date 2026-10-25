@@ -20,5 +20,6 @@ public class SortZeroOneTwo {
         for(int ele : arr){
             System.out.print(ele + " ");
         }
+        System.out.println();
     }
 }
