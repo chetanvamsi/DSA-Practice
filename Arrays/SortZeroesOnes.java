@@ -19,7 +19,7 @@ public class SortZeroesOnes {
         // System.out.println();
 
         //method 2(one pass)
-        int i 
+        int i=0
 
 
 
