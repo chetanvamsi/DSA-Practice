@@ -15,8 +15,7 @@ public class SortZeroesOnes {
             else arr[i] = 1;
         }
         for(int ele : arr){
-            
-
+            System.out.print(ele+" ");
         }
 
         //method 2-2
