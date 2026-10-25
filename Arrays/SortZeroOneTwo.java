@@ -13,7 +13,8 @@ public class SortZeroOneTwo {
             else if(arr[i]==2) not++;
         }
         for(int i=0; i<n; i++){
-            if(i<noz)
+            if(i<noz) arr[i] = 0;
+            else if(i<noo) arr[i]
         }
     }
 }
