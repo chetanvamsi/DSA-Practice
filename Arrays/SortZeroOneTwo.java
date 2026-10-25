@@ -6,7 +6,7 @@ public class SortZeroOneTwo {
         int n = arr.length;
         int noz = 0;
         for(int i=0; i<n; i++){
-            if(arr[i]==0) 
+            if(arr[i]==0) noz++;
 
         }
     }
