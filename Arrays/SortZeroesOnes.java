@@ -6,18 +6,18 @@ public class SortZeroesOnes {
 
         //method 2-1
 
-        // int noOfZeroes = 0;
-        // for(int i=0; i<n; i++){
-        //     if(arr[i]==0) noOfZeroes++;
-        // }
-        // for(int i=0; i<n; i++){
-        //     if(i<noOfZeroes) arr[i] = 0;
-        //     else arr[i] = 1;
-        // }
+        int noOfZeroes = 0;
+        for(int i=0; i<n; i++){
+            if(arr[i]==0) noOfZeroes++;
+        }
+        for(int i=0; i<n; i++){
+            if(i<noOfZeroes) arr[i] = 0;
+            else arr[i] = 1;
+        }
 
         //method 2-2
 
-        
+
 
     }
 }
