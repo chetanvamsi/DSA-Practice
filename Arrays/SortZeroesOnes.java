@@ -28,7 +28,6 @@ public class SortZeroesOnes {
                 arr[j] = 1;
                 i++;
                 j--;
-                
             }
         }
 
