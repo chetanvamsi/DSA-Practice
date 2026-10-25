@@ -20,7 +20,10 @@ public class SortZeroesOnes {
 
         //method 2(one pass)
         int i=0, j=n-1;
-        
+        while(i<j){
+            if(arr[i]==0) i++;
+            if(arr)
+        }
 
 
 
