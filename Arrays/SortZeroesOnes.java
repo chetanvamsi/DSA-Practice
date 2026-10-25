@@ -34,9 +34,5 @@ public class SortZeroesOnes {
             System.out.print(ele+" ");
         }
         System.out.println();
-
-
-
-
     }
 }
