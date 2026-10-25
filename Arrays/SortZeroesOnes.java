@@ -4,7 +4,7 @@ public class SortZeroesOnes {
         int[] arr = {1,0,0,1,1,0,0,0,1,0};
         int n = arr.length;
 
-        //method 2
+        //method 2(two pass)
 
         // int noOfZeroes = 0;
         // for(int i=0; i<n; i++){
@@ -19,7 +19,8 @@ public class SortZeroesOnes {
         // }
         // System.out.println();
 
-        //method 2-2
+        //method 2(one pass)
+        
 
 
 
