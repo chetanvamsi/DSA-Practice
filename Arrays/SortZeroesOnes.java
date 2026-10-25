@@ -30,6 +30,10 @@ public class SortZeroesOnes {
                 j--;
             }
         }
+        for(int ele : arr){
+            System.out.print(ele+" ");
+        }
+        System.out.println();
 
 
 
