@@ -17,5 +17,8 @@ public class SortZeroOneTwo {
             else if(i<noo) arr[i] = 1;
             else if(i<not) arr[i] = 2;
         }
+        for(int ele : arr){
+            
+        }
     }
 }
