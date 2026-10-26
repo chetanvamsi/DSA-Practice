@@ -26,6 +26,10 @@ public class SortZeroOneTwo {
         int mid = 0;
         int low = 0;
         int high = n-1;
-        while(mid)
+        while(mid <= high){
+            if(arr[mid]==0){
+                swap(arr[low],arr[mid])
+            }
+        }
     }
 }
