@@ -56,18 +56,18 @@ public class MergeTwoSortedArray {
                 c[k] = b[j];
                 j--;
             }
-            k++;
+            k--;
         }
         if(i==a.length){
             while(j<b.length){
                 c[k] = b[j];
-                j++; k++;
+                j--; k--;
             }
         }
         if(j==b.length){
             while(i<a.length){
                 c[k] = a[i];
-                i++; k++;
+                i--; k--;
             }
         }
         for(int ele : c){
