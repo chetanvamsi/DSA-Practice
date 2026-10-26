@@ -24,7 +24,7 @@ public class MergeTwoSortedArray {
                 j++; k++;
             }
         }
-        if(i==b.length){
+        if(j==b.length){
             while()
         }
         for(int ele : c){
