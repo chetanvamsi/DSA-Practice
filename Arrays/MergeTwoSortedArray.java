@@ -6,7 +6,8 @@ public class MergeTwoSortedArray {
         int[] b = {26,54,69,81};
         int[] c = new int[a.length + b.length];
         int i=0, j=0, k=0;
-        //merging
+
+        //merging()
         while(i<a.length && j<b.length){
             if(a[i]<=b[j]){
                 c[k] = a[i];
