@@ -7,7 +7,7 @@ public class NextGreatestElement {
         int[] ans = new int[n];
         ans[n-1] = -1;
         for(int i=0;i<n-1;i++){
-            
+            int mx = 
         }
 
     }
