@@ -24,6 +24,9 @@ public class MergeTwoSortedArray {
                 j++; k++;
             }
         }
+        if(i==b.length){
+            while()
+        }
         for(int ele : c){
             System.out.print(ele+ " ");
         }
