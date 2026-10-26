@@ -38,9 +38,14 @@ public class SortZeroOneTwo {
             }
             if(arr[mid]==2){
                 int temp = arr[mid];
-                arr[mid] = arr[]
+                arr[mid] = arr[high];
+                arr[high] = temp;
                 high--;
             }
         }
+        for(int ele : arr){
+            System.out.print(ele + " ");
+        }
+        System.out.println();
     }
 }
