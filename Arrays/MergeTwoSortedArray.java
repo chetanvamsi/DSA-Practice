@@ -10,12 +10,13 @@ public class MergeTwoSortedArray {
         while(i<a.length && j<b.length){
             if(a[i]<=b[j]){
                 c[k] = a[i];
-                i++; k++;
+                i++;
             }
             else{
                 c[k] = b[j];
-                k++; j++;
+                j++;
             }
+            k++;
         }
         for(int ele : c){
             System.out.print(ele+ " ");
