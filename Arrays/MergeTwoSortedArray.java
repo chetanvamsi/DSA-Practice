@@ -18,6 +18,7 @@ public class MergeTwoSortedArray {
             }
             k++;
         }
+        if
         for(int ele : c){
             System.out.print(ele+ " ");
         }
