@@ -13,6 +13,9 @@ public class NextGreatestElement {
             }
             ans[i] = mx;
         }
+        for(int ele: arr){
+            
+        }
 
     }
 }
