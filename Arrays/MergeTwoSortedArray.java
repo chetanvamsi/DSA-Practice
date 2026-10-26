@@ -19,7 +19,10 @@ public class MergeTwoSortedArray {
             k++;
         }
         if(i==a.length){
-            while
+            while(j<b.length){
+                c[k] = b[j];
+                
+            }
         }
         for(int ele : c){
             System.out.print(ele+ " ");
