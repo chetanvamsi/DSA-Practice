@@ -41,9 +41,10 @@ public class MergeTwoSortedArray {
         int[] a = {11,33,42,71};
         int[] b = {26,54,69,81};
         int[] c = new int[a.length + b.length];
-        int i=0, j=0, k=0;
+        int n = a.length;
+        int i=n-1, j=m-1, k=;
 
-        //merging(sorting and merging from first element)
+        //merging(sorting and merging from last element)
         while(i<a.length && j<b.length){
             if(a[i]<=b[j]){
                 c[k] = a[i];
