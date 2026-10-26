@@ -20,6 +20,7 @@ public class NextGreatestElement {
         for(int ele : ans){
             System.out.print(ele+" ");
         }
+        S
 
     }
 }
