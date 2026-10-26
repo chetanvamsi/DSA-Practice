@@ -37,7 +37,8 @@ public class SortZeroOneTwo {
                 mid++;
             }
             if(arr[mid]==2){
-                swap(arr[mid],arr[high]);
+                int temp = arr[mid];
+                
                 high--;
             }
         }
