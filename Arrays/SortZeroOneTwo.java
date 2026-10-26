@@ -29,7 +29,8 @@ public class SortZeroOneTwo {
         while(mid <= high){
             if(arr[mid]==0){
                 int temp = arr[mid];
-                
+                arr[mid] = arr[low];
+                arr[low] = temp;
                 low++;mid++;
             }
             if(arr[mid]==1){
