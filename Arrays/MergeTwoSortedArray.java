@@ -47,7 +47,7 @@ public class MergeTwoSortedArray {
         int i=n-1, j=m-1, k=p-1;
 
         //merging(sorting and merging from last element)
-        while(i>0 && j>){
+        while(i<a.length && j<b.length){
             if(a[i]<=b[j]){
                 c[k] = a[i];
                 i--;
