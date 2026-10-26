@@ -31,6 +31,7 @@ public class SortZeroOneTwo {
                 swap(arr[low],arr[mid]);
                 low++;mid++;
             }
+            
         }
     }
 }
