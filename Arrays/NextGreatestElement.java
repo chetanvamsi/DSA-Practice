@@ -14,7 +14,7 @@ public class NextGreatestElement {
             ans[i] = mx;
         }
         for(int ele: arr){
-            System.out.print
+            System.out.print(ele + " ");
         }
 
     }
