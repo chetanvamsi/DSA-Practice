@@ -23,6 +23,8 @@ public class SortZeroOneTwo {
 
 
         //Method 2 (Dutch flag Algorthim)
-        
+        int mid = 0;
+        int low = 0;
+        int high = n-1;
     }
 }
