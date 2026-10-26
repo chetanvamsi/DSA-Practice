@@ -50,7 +50,7 @@ public class MergeTwoSortedArray {
         while(i<a.length && j<b.length){
             if(a[i]<=b[j]){
                 c[k] = a[i];
-                i++;
+                i--;
             }
             else{
                 c[k] = b[j];
