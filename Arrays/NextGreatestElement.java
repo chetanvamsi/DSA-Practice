@@ -18,7 +18,7 @@ public class NextGreatestElement {
         }
         System.out.println();
         for(int ele : ans){
-            Sys
+            System.out.print(ele+" ");
         }
 
     }
