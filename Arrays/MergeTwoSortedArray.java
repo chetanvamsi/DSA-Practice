@@ -42,7 +42,9 @@ public class MergeTwoSortedArray {
         int[] b = {26,54,69,81};
         int[] c = new int[a.length + b.length];
         int n = a.length;
-        int i=n-1, j=m-1, k=;
+        int m = b.length;
+        int p = c.length;
+        int i=n-1, j=m-1, k=p-1;
 
         //merging(sorting and merging from last element)
         while(i<a.length && j<b.length){
