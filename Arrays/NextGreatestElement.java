@@ -9,7 +9,7 @@ public class NextGreatestElement {
         for(int i=0;i<n-1;i++){
             int mx = Integer.MIN_VALUE;
             for(int j=i+1;j<n;j++){
-                mx = Math.max(mx,arr[i])
+                mx = Math.max(mx,arr[j]);
             }
         }
 
