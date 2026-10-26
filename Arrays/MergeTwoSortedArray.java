@@ -7,7 +7,7 @@ public class MergeTwoSortedArray {
         int[] c = new int[a.length + b.length];
         int i=0, j=0, k=0;
 
-        //merging()
+        //merging(sorting and merging from first element)
         while(i<a.length && j<b.length){
             if(a[i]<=b[j]){
                 c[k] = a[i];
