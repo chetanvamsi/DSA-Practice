@@ -6,7 +6,7 @@ public class NextGreatestElement {
         int n = arr.length;
         int[] ans = new int[n];
         ans[n-1] = -1;
-        
+        // Brute force method 
         for(int i=0;i<n-1;i++){
             int mx = Integer.MIN_VALUE;
             for(int j=i+1;j<n;j++){
