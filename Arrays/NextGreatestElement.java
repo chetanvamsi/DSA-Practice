@@ -6,7 +6,7 @@ public class NextGreatestElement {
         int n = arr.length;
         int[] ans = new int[n];
         ans[n-1] = -1;
-        
+        for(int )
 
     }
 }
