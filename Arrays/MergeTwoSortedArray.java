@@ -54,7 +54,7 @@ public class MergeTwoSortedArray {
             }
             else{
                 c[k] = b[j];
-                j++;
+                j--;
             }
             k++;
         }
