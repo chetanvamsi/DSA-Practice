@@ -8,7 +8,9 @@ public class NextGreatestElement {
         ans[n-1] = -1;
         for(int i=0;i<n-1;i++){
             int mx = Integer.MIN_VALUE;
-            for(int j=i+1;j<n;)
+            for(int j=i+1;j<n;j++){
+                mx = Math.max(mx,arr[i])
+            }
         }
 
     }
