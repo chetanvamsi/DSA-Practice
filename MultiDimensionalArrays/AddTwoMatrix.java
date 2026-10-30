@@ -1,5 +1,5 @@
 package MultiDimensionalArrays;
 
 public class AddTwoMatrix {
-    int[][] 
+    int[][] a = {{1,2,3},{3,4,5},{4,5,7}
 }
