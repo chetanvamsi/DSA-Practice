@@ -7,5 +7,7 @@ public class ForEachLoop{
             System.out.print(ele+" ");
         }
         System.out.println();
+
+        
     }
 }
