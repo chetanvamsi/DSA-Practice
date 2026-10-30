@@ -8,6 +8,8 @@ public class ForEachLoop{
         }
         System.out.println();
 
+        //1 2 3
+        //4 5 6
         
     }
 }
