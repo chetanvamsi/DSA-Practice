@@ -20,7 +20,7 @@ public class SquareMatrixTranspose {
         print(arr);
         //transposing
         for(int i=0; i<m; i++){
-            for(int j=0;j<=i;j++){
+            for(int j=0; j<i; j++){
                 int temp = arr[i][j];
                 arr[i][j] = arr[j][i];
                 arr[j][i] = temp;
