@@ -17,6 +17,7 @@ public class AddTwoMatrix {
         for(int j=0; j<n; j++){
             System.out.print(res[i][j]+" ");
         }
+        System.out.println();
 
     }
 
