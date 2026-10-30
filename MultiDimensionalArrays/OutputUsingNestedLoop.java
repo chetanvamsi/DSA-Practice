@@ -8,8 +8,8 @@ public class OutputUsingNestedLoop {
         //arr[0][0] = 9;
 
         //output of 2D arrays
-        for(int i=0; i<3; i++){
-            for(int j=0; j<3; j++){
+        for(int i=0; i<3; i++){  //rows
+            for(int j=0; j<3; j++){  //colums
                 arr[i][j] = sc.nextInt();
             }
             System.out.println();
