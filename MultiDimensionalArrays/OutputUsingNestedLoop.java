@@ -10,6 +10,7 @@ public class OutputUsingNestedLoop {
             for(int j=0; j<3; j++){
                 arr[i][j] = sc.nextInt();
             }
+            System.out.println();
         }
     }
     
