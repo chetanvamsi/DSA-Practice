@@ -10,6 +10,11 @@ public class ForEachLoop{
 
         //1 2 3
         //4 5 6
-        int[][] b = {{1,2,3}}
+        int[][] b = {{1,2,3},{4,5,6}};
+        for(int[] ele : b){
+            for(int x : ele){
+                System.out.print(x+" ");
+            }
+        }
     }
 }
