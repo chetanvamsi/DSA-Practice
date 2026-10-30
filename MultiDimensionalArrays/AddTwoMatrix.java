@@ -13,6 +13,8 @@ public class AddTwoMatrix {
 
         }
     }
-    for(int i=0;i<m)
+    for(int i=0; i<m; i++){
+
+    }
 
 }
