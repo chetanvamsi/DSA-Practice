@@ -15,6 +15,7 @@ public class ForEachLoop{
             for(int x : ele){
                 System.out.print(x+" ");
             }
+            System.out.println();
         }
     }
 }
