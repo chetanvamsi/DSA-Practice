@@ -6,7 +6,8 @@ public class SquareMatrixTranspose {
         int m = arr.length;
         for(int i=0; i<m; i++){
             for(int j=0;j<=i;j++){
-                int 
+                int temp = arr[i][j];
+                
             }
         }
     }
