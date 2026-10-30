@@ -10,11 +10,11 @@ public class Transpose {
         int m = arr.length, n = arr[0].length;
 
         //row wise  print
-        for(int i=0; i<n; i++){ //rows
-            for(int j=0; j<n; j++){  //cols
-                System.out.print(arr[i][j]+ " ");
-            }
-        }
+        // for(int i=0; i<n; i++){ //rows
+        //     for(int j=0; j<n; j++){  //cols
+        //         System.out.print(arr[i][j]+ " ");
+        //     }
+        // }
 
         //col wise print
         for(int j=0; j<n; j++){
