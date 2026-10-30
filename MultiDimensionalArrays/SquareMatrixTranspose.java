@@ -1,7 +1,7 @@
 package MultiDimensionalArrays;
 import java.util.*;
 public class SquareMatrixTranspose {
-    public static void print(String[] args) {
+    public static void print(int[][] arr) {
         int[][] arr = {{1,2,4},{5,6,7},{8,9,0}};
         int m = arr.length;
         int n = arr[0].length;
