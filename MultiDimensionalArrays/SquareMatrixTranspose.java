@@ -9,8 +9,7 @@ public class SquareMatrixTranspose {
             }
             System.out.println();
         }
-        
-
+        System.out.println();
     }
     public static void main(String[] args) {
         int[][] arr = {{1,2,4},{5,6,7},{8,9,0}};
