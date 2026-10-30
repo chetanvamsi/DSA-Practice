@@ -5,7 +5,8 @@ public class OutputUsingNestedLoop {
         int[][] arr = new int[3][3];
         //arr[0][0] = 9;
 
-        //output
+        //output of 2D arrays
+        
     }
     
 }
