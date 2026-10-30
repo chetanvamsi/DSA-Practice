@@ -1,3 +1,3 @@
 package MultiDimensionalArrays;
 
-public void main
+public class 
