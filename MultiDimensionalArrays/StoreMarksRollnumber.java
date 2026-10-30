@@ -14,5 +14,6 @@ public class StoreMarksRollnumber {
                 System.out.print(arr[i][j]+" ");
             }
         }
+        System.out.println();
     }
 }
