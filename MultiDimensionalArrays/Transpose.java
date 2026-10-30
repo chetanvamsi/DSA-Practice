@@ -19,7 +19,7 @@ public class Transpose {
         //col wise print
         for(int j=0; j<n; j++){
             for(int i=0; i<m; i++){
-                System.out.print
+                System.out.print(arr[i][j]+" ");
             }
         }
     }
