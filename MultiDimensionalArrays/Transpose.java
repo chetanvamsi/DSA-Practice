@@ -31,6 +31,7 @@ public class Transpose {
         for(int i=0;i<m;i++){
             for(int j=0; j<n; j++){
                 transpose[i][j] = arr[j][i];
+                System.out.print
             }
             System.out.println();
         }
