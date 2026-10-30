@@ -15,5 +15,8 @@ public class Transpose {
                 System.out.print(arr[i][j]+ " ");
             }
         }
+
+        //col wise print
+        
     }
 }
