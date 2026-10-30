@@ -11,6 +11,6 @@ public class SquareMatrixTranspose {
                 arr[j][i] = temp;
             }
         }
-        arr
+        print(arr);
     }
 }
