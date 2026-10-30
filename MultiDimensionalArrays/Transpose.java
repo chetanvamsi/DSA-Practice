@@ -23,5 +23,6 @@ public class Transpose {
             }
             System.out.println();   
         }
+        System.out.println();
     }
 }
