@@ -1,6 +1,9 @@
 package MultiDimensionalArrays;
 
 public class AddTwoMatrix {
+    public static void main(String[] args) {
+        
+    }
     int[][] a = {{1,2,3},{3,4,5},{4,5,7}};
     int[][] b = {{5,9,8},{2,3,4},{5,6,7}};
 
