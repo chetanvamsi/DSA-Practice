@@ -9,7 +9,7 @@ public class OutputUsingNestedLoop {
 
         //output of 2D arrays
         for(int i=0; i<3; i++){  //rows
-            for(int j=0; j<3; j++){  //colums
+            for(int j=0; j<3; j++){  //cols
                 arr[i][j] = sc.nextInt();
             }
             System.out.println();
