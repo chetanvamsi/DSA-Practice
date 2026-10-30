@@ -28,8 +28,11 @@ public class Transpose {
 
         //storing
         int[][] transpose = new int[n][m];
-        for(int i=0;i<n;i++){
-            for(int j=0; j<m)
+        for(int i=0;i<m;i++){
+            for(int j=0; j<n; j++){
+                transpose[i][j] = 
+
+            }
 
         }
     }
