@@ -11,7 +11,7 @@ public class StoreMarksRollnumber {
         }
         for(int i=0; i<4; i++){
             for(int j=0; j<2; j++){
-                arr[i][j] = sc.nextInt();
+                System.out.print(arr[i][j]+" ");
             }
         }
     }
