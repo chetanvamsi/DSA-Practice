@@ -9,6 +9,7 @@ public class MaxElement {
                 mx = Math.max(mx, arr[i][j]);
             }
         }
+        System.out.print(mx);
 
     }
 }
