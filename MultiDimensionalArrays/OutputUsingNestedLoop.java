@@ -1,4 +1,5 @@
 package MultiDimensionalArrays;
+import java.util.*;
 
 public class OutputUsingNestedLoop {
     public static void main(String[] args) {
