@@ -1,5 +1,4 @@
 package MultiDimensionalArrays;
-import java.util.*;
 public class SquareMatrixTranspose {
     public static void print(int[][] arr) {
         int m = arr.length;
