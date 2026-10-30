@@ -7,7 +7,8 @@ public class AddTwoMatrix {
     int n = a[0].length;
     int[][] res = new int[m][n];
     for(int i=0;i<m;i++){
-        
+        for(int j)
+
     }
 
 }
