@@ -8,6 +8,6 @@ public class BasicTwoDImensionalArrays {
         //70 80 90
         grid[0][0] = 10;
         grid[0][1] = 20;
-        
+        grid[0][2]
     }
 }
