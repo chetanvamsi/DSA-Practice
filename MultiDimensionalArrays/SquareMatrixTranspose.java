@@ -38,5 +38,6 @@ public class SquareMatrixTranspose {
             a++; b--;
             }
         }
+        print(arr);
     }
 }
