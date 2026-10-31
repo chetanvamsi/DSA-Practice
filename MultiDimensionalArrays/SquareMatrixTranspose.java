@@ -31,6 +31,8 @@ public class SquareMatrixTranspose {
         for(int i=0; i< m; i++){
             int a = 0,b = m-1;
             //swap arr[i][a] and arr[i][b]
+            int temp = arr[i][a];
+            arr[i][a]
         }
     }
 }
