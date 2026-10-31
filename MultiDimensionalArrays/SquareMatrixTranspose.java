@@ -28,6 +28,8 @@ public class SquareMatrixTranspose {
         print(arr);
 
         //rotate -> reverse each row 
-        for(int i=0; i<n)
+        for(int i=0; i< m; i++){
+            int a = 0,
+        }
     }
 }
