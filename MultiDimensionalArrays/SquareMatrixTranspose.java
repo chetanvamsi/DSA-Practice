@@ -29,7 +29,8 @@ public class SquareMatrixTranspose {
 
         //rotate -> reverse each row 
         for(int i=0; i< m; i++){
-            int a = 0,
+            int a = 0,b = m-1;
+            
         }
     }
 }
