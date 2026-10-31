@@ -14,8 +14,7 @@ public class WavePrint {
             }
             else{
                 for(int j=n-1; j>=0; j--){
-                    System.out.rpint()
-
+                    System.out.print(arr[i][j]+ " ");
                 }
             }
         }
