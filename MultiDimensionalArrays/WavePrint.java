@@ -12,6 +12,9 @@ public class WavePrint {
                     System.out.print(arr[i][j] + " ");
                 }
             }
+            else{
+                for(int j=n-1)
+            }
         }
         
     }
