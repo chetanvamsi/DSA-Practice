@@ -7,7 +7,9 @@ public class WavePrint {
         print(arr);
         //wave print -> row wise alternative
         for(int i=o; i<n; i++){
-            if(i)
+            if(i%2==0){
+                for
+            }
         }
         
     }
