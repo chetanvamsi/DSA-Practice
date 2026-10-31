@@ -6,7 +6,9 @@ public class WavePrint {
         int m = arr.length, n = arr[0].length;
         print(arr);
         //wave print -> row wise alternative
-        for(int i=o; i<n;i)
+        for(int i=o; i<n; i++){
+            if(i)
+        }
         
     }
     
