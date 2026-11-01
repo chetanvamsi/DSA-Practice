@@ -14,7 +14,7 @@ public class SpiralForms {
         System.out.println();
     }
     public static void main(String[] args) {
-        
+        //spiral print 
         
     }
 }
