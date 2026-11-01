@@ -17,6 +17,10 @@ public class SpiralForms {
         //spiral print 
         int minr = 0, minr = m-1;
         int minc = 0, maxc = n-1;
+        while(minr<=maxr && minc<=maxc){
+            
+
+        }
         
     }
 }
