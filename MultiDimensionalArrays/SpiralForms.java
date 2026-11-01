@@ -2,7 +2,7 @@ package MultiDimensionalArrays;
 
 public class SpiralForms {
 
-        public static void print(int[][] arr) {
+    public static void print(int[][] arr) {
         int m = arr.length;
         int n = arr[0].length;
         for(int i=0; i<m; i++){
@@ -14,6 +14,7 @@ public class SpiralForms {
         System.out.println();
     }
     public static void main(String[] args) {
+        
         
     }
 }
