@@ -19,7 +19,7 @@ public class SpiralForms {
         print(arr);
         //spiral print 
         int minr = 0; 
-        int mr = m-1;
+        int maxr = m-1;
         int minc = 0;
         int maxc = n-1;
         while(minr<=maxr && minc<=maxc){
