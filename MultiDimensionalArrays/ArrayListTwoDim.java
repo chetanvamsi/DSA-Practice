@@ -9,7 +9,7 @@ public class ArrayListTwoDim {
         List<Integer> c = new ArrayList<>();
         List<Integer> d = new ArrayList<>();
         d.add(60);
-        List
+        List<List<
 
     }
 }
