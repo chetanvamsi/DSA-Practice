@@ -23,6 +23,7 @@ public class SpiralForms {
         int minc = 0;
         int maxc = n-1;
         while(minr<=maxr && minc<=maxc){
+            
 
 
         }
