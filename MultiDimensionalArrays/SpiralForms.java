@@ -16,7 +16,7 @@ public class SpiralForms {
     public static void main(String[] args) {
         //spiral print 
         int minr = 0, minr = m-1;
-        int minc =0, mon
+        int minc =0, maxc = n-1;
         
     }
 }
