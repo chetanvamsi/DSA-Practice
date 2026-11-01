@@ -22,8 +22,9 @@ public class ArrayListTwoDim {
         // }
 
         for(int i=0;i<l.size(); i++){
-            for(int j=0; j<l.get(i);j++){
+            for(int j=0; j<l.get(i).size();j++){
                 
+
             }
         }
 
