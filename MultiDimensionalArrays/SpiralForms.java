@@ -18,7 +18,8 @@ public class SpiralForms {
         int m = arr.length, n = arr[0].length;
         print(arr);
         //spiral print 
-        int minr = 0, minr = m-1;
+        int minr = 0; 
+        int minr = m-1;
         int minc = 0, maxc = n-1;
         while(minr<=maxr && minc<=maxc){
 
