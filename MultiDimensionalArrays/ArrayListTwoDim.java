@@ -17,9 +17,11 @@ public class ArrayListTwoDim {
         //     System.out.print(a.get(i)+" ");
         // }
         
-        for(int i=0; i<l.size(); i++){
-            System.out.println(l.get(i));
-        }
+        // for(int i=0; i<l.size(); i++){
+        //     System.out.println(l.get(i));
+        // }
+
+        for(int i=0;i<l.size)
 
     }
 }
