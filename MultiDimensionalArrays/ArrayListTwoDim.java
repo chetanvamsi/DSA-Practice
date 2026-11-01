@@ -13,8 +13,8 @@ public class ArrayListTwoDim {
         l.add(a); l.add(b); l.add(c); l.add(d);
 
 
-        for(int i=0; i<size();i++){
-            System.out.print
+        for(int i=0; i<a.size();i++){
+            System.out.print(a.get(i)+" ");
         }
         
         for(int i=0; i<l.size(); i++){
