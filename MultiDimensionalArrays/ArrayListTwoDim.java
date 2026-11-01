@@ -11,6 +11,11 @@ public class ArrayListTwoDim {
         d.add(60);
         List<List<Integer>> l = new ArrayList<>();
         l.add(a); l.add(b); l.add(c); l.add(d);
+
+
+        for(int i=0; i<size();i++){
+            
+        }
         
         for(int i=0; i<l.size(); i++){
             for(int j=0;j<a.size();j++){
