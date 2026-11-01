@@ -8,7 +8,8 @@ public class ArrayListTwoDim {
         b.add(40); b.add(50);
         List<Integer> c = new ArrayList<>();
         List<Integer> d = new ArrayList<>();
-        
+        d.add(60);
+        List
 
     }
 }
