@@ -18,10 +18,7 @@ public class ArrayListTwoDim {
         // }
         
         for(int i=0; i<l.size(); i++){
-            for(int j=0;j<a.size();j++){
-                System.out.print(
-
-            }
+            
         }
 
     }
