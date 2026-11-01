@@ -27,6 +27,10 @@ public class SpiralForms {
             for(int j=minc; j<=maxc; j++){
                 System.out.print(arr[minr][j]+" ");
             }minr++;
+            //top to bottom
+            for(int i=minr; i<=maxr; i++){
+                
+            }
 
 
         }
